@@ -1,2 +1,2 @@
 # Career-Hunt
-Career Guidance App
+Career Guidance Website
